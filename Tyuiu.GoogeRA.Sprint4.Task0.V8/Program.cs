@@ -18,7 +18,7 @@ namespace Tyuiu.GoogeRA.Sprint4.Task0.V8
             Console.Title = "Спринт #4| Выполнил :  Гооге Р.A. | ПКТб-23-1";
             Console.WriteLine("**************************************************************");
             Console.WriteLine("* Спринт #4                                                  *");
-            Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту    *");
+            Console.WriteLine("* Тема: Одномерные массивы (статический ввод)                *");
             Console.WriteLine("* Задание #0                                                 *");
             Console.WriteLine("* Вариант #8                                                 *");
             Console.WriteLine("* Выполнил :  Гооге Роберт Aлексндрович | ПКТб-23-1          *");
